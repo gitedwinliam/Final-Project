@@ -8,19 +8,19 @@ app.controller('Controller',['$scope',function($scope){
 	{
 		classTab: 'in active',
 		cTab: 'tabOne',
-		campaignImg: 'Images/download2.jpg',
+		campaignImg: 'Images/ipsum.jpg',
 		campaignName: 'Campaign 1',
 		campaignDescription: 'Louvar, bobtail snipe eel sand stargazer trout-perch Japanese eel, regal whiptail catfish yellowtail amberjack; tuna demoiselle ladyfish. Steve fish threadfin flashlight fish loweye catfish Black scabbardfish javelin? Swordfish redmouth whalefish Atlantic herring longfin dragonfish earthworm eel mora Old World rivuline.'
 	},
 	{
 		cTab: 'tabTwo',
-		campaignImg: 'Images/download2.jpg',
+		campaignImg: 'Images/ipsum.jpg',
 		campaignName: 'Campaign 2',
 		campaignDescription:'Louvar, bobtail snipe eel sand stargazer trout-perch Japanese eel, regal whiptail catfish yellowtail amberjack; tuna demoiselle ladyfish. Steve fish threadfin flashlight fish loweye catfish Black scabbardfish javelin? Swordfish redmouth whalefish Atlantic herring longfin dragonfish earthworm eel mora Old World rivuline.'
 	},
 	{
 		cTab: 'tabThree',
-		campaignImg: 'Images/download2.jpg',
+		campaignImg: 'Images/ipsum.jpg',
 		campaignName: 'Campaign 3',
 		campaignDescription: 'Louvar, bobtail snipe eel sand stargazer trout-perch Japanese eel, regal whiptail catfish yellowtail amberjack; tuna demoiselle ladyfish. Steve fish threadfin flashlight fish loweye catfish Black scabbardfish javelin? Swordfish redmouth whalefish Atlantic herring longfin dragonfish earthworm eel mora Old World rivuline.'
 	}];
@@ -56,7 +56,7 @@ app.controller('Controller',['$scope',function($scope){
 
 	$scope.events=[
 		{
-			eventImg: 'Images/download.jpg',
+			eventImg: 'Images/ipsum.jpg',
 			eventName: 'Isang Bagsak',
 			eventDescription: 'Kitty scratches couch bad kitty. Always hungry. Spit up on light gray carpet instead of adjacent linoleum sit and stare throwup on your pillow, or has closed eyes but still sees you, yet cough furball and curl up and sleep on the freshly laundered towels jump on human and sleep on her all night long be long in the bed, purr in the morning and then give a bite to every human around for not waking up request food, purr loud scratch the walls, the floor, the windows, the humans. ',
 			eventDate: new Date('2017', '05', '01'),
@@ -64,7 +64,7 @@ app.controller('Controller',['$scope',function($scope){
 			eventID: 'event1'
 		},
 		{
-			eventImg: 'Images/download2.jpg',
+			eventImg: 'Images/ipsum.jpg',
 			eventName: 'Just Peace PH Tour',
 			eventDescription: 'Kitty scratches couch bad kitty. Always hungry. Spit up on light gray carpet instead of adjacent linoleum sit and stare throwup on your pillow, or has closed eyes but still sees you, yet cough furball and curl up and sleep on the freshly laundered towels jump on human and sleep on her all night long be long in the bed, purr in the morning and then give a bite to every human around for not waking up request food, purr loud scratch the walls, the floor, the windows, the humans. ',
 			eventDate: new Date('2017', '05', '20'),
@@ -72,7 +72,7 @@ app.controller('Controller',['$scope',function($scope){
 			eventID: 'event2'
 		},
 		{
-			eventImg: 'Images/download3.jpg',
+			eventImg: 'Images/ipsum.jpg',
 			eventName: 'General Meeting',
 			eventDescription:'Kitty scratches couch bad kitty. Always hungry. Spit up on light gray carpet instead of adjacent linoleum sit and stare throwup on your pillow, or has closed eyes but still sees you, yet cough furball and curl up and sleep on the freshly laundered towels jump on human and sleep on her all night long be long in the bed, purr in the morning and then give a bite to every human around for not waking up request food, purr loud scratch the walls, the floor, the windows, the humans. ',			
 			eventDate: new Date('2017', '05', '21'),
@@ -80,7 +80,7 @@ app.controller('Controller',['$scope',function($scope){
 			eventID: 'event3'
 		},
 		{
-			eventImg: 'Images/download.jpg',
+			eventImg: 'Images/ipsum.jpg',
 			eventName: 'Banner Making Party',
 			eventDescription: 'Kitty scratches couch bad kitty. Always hungry. Spit up on light gray carpet instead of adjacent linoleum sit and stare throwup on your pillow, or has closed eyes but still sees you, yet cough furball and curl up and sleep on the freshly laundered towels jump on human and sleep on her all night long be long in the bed, purr in the morning and then give a bite to every human around for not waking up request food, purr loud scratch the walls, the floor, the windows, the humans. ',
 			eventDate: new Date('2017', '06', '02'),
@@ -88,7 +88,7 @@ app.controller('Controller',['$scope',function($scope){
 			eventID: 'event4'
 		},
 		{
-			eventImg: 'Images/download2.jpg',
+			eventImg: 'Images/ipsum.jpg',
 			eventName: 'Karoake Night',
 			eventDescription:'Kitty scratches couch bad kitty. Always hungry. Spit up on light gray carpet instead of adjacent linoleum sit and stare throwup on your pillow, or has closed eyes but still sees you, yet cough furball and curl up and sleep on the freshly laundered towels jump on human and sleep on her all night long be long in the bed, purr in the morning and then give a bite to every human around for not waking up request food, purr loud scratch the walls, the floor, the windows, the humans. ',			
 			eventDate: new Date('2017', '06', '06'),
